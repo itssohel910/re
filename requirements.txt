@@ -3,3 +3,4 @@ Pillow>=10.0.0
 onnxruntime>=1.15.0
 numpy>=1.25.0
 aiohttp>=3.8.0
+requests
